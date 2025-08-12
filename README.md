@@ -10,7 +10,7 @@ Built a 2-page interactive Power BI dashboard to monitor weekly sales and payrol
 
 2. Payroll Analysis – Wage tracking, attendance validation, weekly/monthly payroll KPIs.
 
-<img width="487" height="249" alt="cl-2" src="https://github.com/user-attachments/assets/6157199e-a429-4f76-947a-f770f4b5d812" />
+<img width="723" height="368" alt="cl-2" src="https://github.com/user-attachments/assets/6157199e-a429-4f76-947a-f770f4b5d812" />
 
 ## Tools & Techniques
 - Power BI (DAX, Power Query)
